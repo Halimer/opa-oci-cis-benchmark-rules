@@ -1,0 +1,6 @@
+{
+    "user" : {
+        "username" : "josh",
+        "roles" : ["developer"]
+    }
+}
